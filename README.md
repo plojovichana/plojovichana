@@ -4,7 +4,7 @@
 
 👩‍💻
 
-Skills: / Python / HTML5 / CSS3 / 
+Python / HTML5 / CSS3 / JavaScript
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Design 
