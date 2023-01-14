@@ -1,5 +1,5 @@
 ### Hi, I'm Hana
-#### I am Certified Python developer
+#### 💻
 ![💻](https://cdn.dribbble.com/users/1396198/screenshots/4422089/code.gif)
 
 I am Python developer with some knowledge of web development and graphic design.
