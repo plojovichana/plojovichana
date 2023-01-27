@@ -8,7 +8,7 @@ Python / HTML5 / CSS3 / JavaScript
 
 - 👩🏻‍💻 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Design. 
-- ✉ How to reach me: hanaplojovic7@gmail.com .
+- 📫 How to reach me: hanaplojovic7@gmail.com .
 - ✨ Fun fact: I am very funny.
 
 
