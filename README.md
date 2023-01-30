@@ -4,6 +4,8 @@
 
 🤍
 
+8.11.2010
+
  ~ Python / HTML5 / CSS3 / JavaScript ~
 
 - 👩🏻‍💻 I’m currently working on this page. 
