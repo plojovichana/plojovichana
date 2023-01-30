@@ -4,7 +4,7 @@
 
 🤍
 
-𝟴.𝟭𝟭.𝟮𝟬𝟭𝟬
+𝟴.𝟭𝟭.𝟮𝟬𝟭𝟬 🥳 
 
  ~ Python / HTML5 / CSS3 / JavaScript ~
 
