@@ -1,4 +1,7 @@
 ### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙃𝙖𝙣𝙖 👋🏼👩🏻‍💻
+####
+#### 🌎 I'm based in Novi Pazar
+###
 
 ![💻](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
 
@@ -12,7 +15,6 @@
 - 🌱 I’m currently learning Web Design. 
 - 📫 How to reach me:  [hanaplojovic7@gmail.com](mailto:hanaplojovic7@gmail.com).
 - ✨ Fun fact: I am very funny.
-- 📍 I'm based in Novi Pazar
 
 🤍
 
