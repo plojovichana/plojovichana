@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Web Design. 
 - 📫 How to reach me:  [hanaplojovic7@gmail.com](mailto:hanaplojovic7@gmail.com).
 - ✨ Fun fact: I am very funny.
--🌎 I'm based in Novi Pazar
+- 🌎 I'm based in Novi Pazar
 
 🤍
 
