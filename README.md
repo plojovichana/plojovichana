@@ -1,4 +1,5 @@
-### 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙃𝙖𝙣𝙖 👋🏼👩🏻‍💻
+
+### 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗛𝗮𝗻𝗮👋🏼👩🏻‍💻
 <div>
 <br>
 <p><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -14,7 +15,7 @@
 
 🤍
 
- ~ Python / HTML5 / CSS3 / JavaScript ~
+~ 𝗣𝘆𝘁𝗵𝗼𝗻 / 𝗛𝗧𝗠𝗟𝟱 / 𝗖𝗦𝗦𝟯 / 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 / 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽 ~
 
 - 👩🏻‍💻 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Design. 
