@@ -1,4 +1,4 @@
-### 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗛𝗮𝗻𝗮👋🏼👩🏻‍💻
+### 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗛𝗮𝗻𝗮👋🏼👩🏻‍💻🇷🇸
 <div>
 <br>
 <p><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
