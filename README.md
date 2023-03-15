@@ -1,5 +1,4 @@
 ### 𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗛𝗮𝗻𝗮👋🏼👩🏻‍💻🇷🇸
-<br>
 <div>
 <p><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -7,15 +6,10 @@
 
  </p></div>
 
-<br>
-
-![💻](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
-
 ####
 
 
 ~ 𝗣𝘆𝘁𝗵𝗼𝗻 / 𝗛𝗧𝗠𝗟𝟱 / 𝗖𝗦𝗦𝟯 / 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 / 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽 ~
-
 
 
 - 👩🏻‍💻 𝗜'𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝘁𝗵𝗶𝘀 𝗽𝗮𝗴𝗲.
