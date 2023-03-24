@@ -17,6 +17,6 @@
 - 📫 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲: 𝗵𝗮𝗻𝗮𝗽𝗹𝗼𝗷𝗼𝘃𝗶𝗰𝟭𝟮𝟯@𝗴𝗺𝗮𝗶𝗹.𝗰𝗼𝗺.
 - 🌎 𝗜'𝗺 𝗯𝗮𝘀𝗲𝗱 𝗶𝗻 𝗡𝗼𝘃𝗶 𝗣𝗮𝘇𝗮𝗿.
 
-
+<>
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt='github' height='40'>](https://github.com/plojovichana)  [<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' alt='instagram' height='40'>](https://www.instagram.com/hanaplojovic/)  
