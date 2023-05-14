@@ -21,4 +21,3 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt='github' height='40'>](https://github.com/plojovichana)  [<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' alt='instagram' height='40'>](https://www.instagram.com/hanaplojovic/)  
 
 
-<a href="akademac.info">akademac</a>
